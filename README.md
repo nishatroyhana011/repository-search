@@ -1,7 +1,9 @@
 # Project name: repo-search
 ## Github Url :
+https://github.com/nishatroyhana011/repository-search
 
 ## Live link:
+https://repo-search-git.netlify.app/
 
 ## Dependencies:
 1. React
